@@ -1,4 +1,12 @@
 # Best Models for Medium-Scale Datasets
+## 👤 Author
+
+| 👤 **Name** | 🔗 **Github-Profile** | 🔗 **Kaggle-Profile** |
+|------------|----------------|----------------|
+| Riddy Mazumder | [![GitHub](https://img.shields.io/badge/GitHub-RiddyMazumder-black?logo=github)](https://github.com/RiddyMazumder) | [![Kaggle Profile](https://img.shields.io/badge/Kaggle-RiddyMazumder-blue?logo=kaggle)](https://www.kaggle.com/riddymazumder) |
+| Atahar08 | [![GitHub](https://img.shields.io/badge/GitHub-Atahar08-black?logo=github)](https://github.com/Atahar08) | [![Kaggle Profile](https://img.shields.io/badge/Kaggle-Atahar08-blue?logo=kaggle)](https://www.kaggle.com/Atahar08) |
+
+
 This repository provides a comparative study and practical guide to selecting the best machine learning models for medium-scale datasets, covering both Regression and Classification problems.
 
 Medium-scale datasets typically range from 10,000 to 1,000,000 rows, where model performance, training time, and overfitting control all become critical.
